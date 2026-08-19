@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ISTelegramImageBot.API/ISTelegramImageBot.API.csproj" />
+  <Project Path="ISTelegramImageBot.Application/ISTelegramImageBot.Application.csproj" />
+  <Project Path="ISTelegramImageBot.Domain/ISTelegramImageBot.Domain.csproj" />
+  <Project Path="ISTelegramImageBot.Infrastructure/ISTelegramImageBot.Infrastructure.csproj" />
+  <Project Path="ISTelegramImageBot.Telegram/ISTelegramImageBot.Telegram.csproj" />
+</Solution>
